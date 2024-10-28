@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MyBook.vn</string>
+    <string name="app_name">BookStore</string>
     <string name="email_s_i_n_tho_i">Email/ Số điện thoại</string>
     <string name="ng_nh_p">ĐĂNG NHẬP</string>
     <string name="ng_k">ĐĂNG KÝ</string>
