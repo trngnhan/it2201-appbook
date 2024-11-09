@@ -30,7 +30,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:hint="Nhập từ khoá tìm kiếm"
-                android:padding="8dp"
+                android:padding="8dp"/>
 
             <Button
                 android:id="@+id/searchButton"
@@ -41,7 +41,7 @@
         </LinearLayout>
 
         <!-- Kết quả tìm kiếm -->
-        <RecyclerView
+        <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/searchResultsRecyclerView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
