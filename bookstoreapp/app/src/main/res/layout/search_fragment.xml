@@ -41,7 +41,7 @@
         </LinearLayout>
 
         <!-- Kết quả tìm kiếm -->
-        <RecyclerView
+        <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/searchResultsRecyclerView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
